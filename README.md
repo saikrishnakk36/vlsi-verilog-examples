@@ -1,5 +1,8 @@
 # VLSI Examples — Verilog, SystemVerilog & UVM
 
+> ▶ **Run these live** — paste any design + testbench into [ChipXpert Lab](https://lab.chipxpert.in/) to simulate (Icarus Verilog) or verify with Python **cocotb**, free in your browser — no install, no signup.
+
+
 A library of **simulation-verified** hardware design examples: Verilog, SystemVerilog and UVM,
 each a complete design with a self-checking testbench. Every verified file was compiled and run
 before it was committed (Icarus Verilog for Verilog; Verilator 5 for SystemVerilog).
